@@ -53,7 +53,7 @@
   box-sizing: border-box; }
 
 html {
-  font-family: 'Barlow Condensed', 'Montserrat', sans-serif;
+  font-family: 'Encode Sans Condensed', sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -68,7 +68,7 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 body {
   margin: 0;
-  font-family: 'Barlow Condensed', 'Montserrat', sans-serif;
+  font-family: 'Encode Sans Condensed', sans-serif;
   font-size: 1rem;
   font-weight: normal;
   line-height: 1.5;
